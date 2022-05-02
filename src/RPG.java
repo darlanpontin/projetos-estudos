@@ -57,7 +57,7 @@ public class RPG {
 		System.out.println("Fim da luta!!");
 		
 		if(gandalf.getVida() > 0) {
-			System.out.println("O MAGO É O MAGO É O VENCEDOR!!");
+			System.out.println("O MAGO É O VENCEDOR!!");
 		}else if (thor.getVida() > 0) {
 			System.out.println("O GUERREIRO É O VENCEDOR!!");
 		}
